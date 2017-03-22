@@ -1,0 +1,23 @@
+natural b = 3.
+natural a.
+natural c = 10 * 2.
+natural d = 2.
+if (d >= b){
+a = b.
+}
+if (a == b){
+10 + 2.
+} or{
+2 * 3.
+}
+d.
+natural n = 4.
+switching(n)
+now{
+match 2
+match 3
+match 4
+match 5
+}
+loop(2)
+go{}
